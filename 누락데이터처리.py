@@ -31,3 +31,4 @@ df[].fillna(most_freq,inplace=True)
 #이웃하고 있는 값으로 바꾸기
 df[].fillna(method='ffill',inplace=True)
 
+hi
